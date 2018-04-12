@@ -1,0 +1,3 @@
+[submodule "lib/wren"]
+	path = lib/wren
+	url = git@github.com:munificent/wren.git
